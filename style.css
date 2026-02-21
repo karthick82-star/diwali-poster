@@ -1,0 +1,61 @@
+.top-section-bg-container{
+    height: 30vh;
+    background-image:url("i3");
+    width: 100%;
+}
+
+.top-section-heading{
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80px;
+    width: 500px;
+    padding: 50px;
+    text-align: center;
+
+}
+
+.bottom-section{
+    background-color: rgb(160, 214, 250);
+    height:100vh;
+    background-size: cover;
+    text-align: center;
+}
+.card-image{
+    height: 80px;
+    width: 80px;
+}
+.cased-item{
+    background-color: azure;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 5px;
+}
+
+.card-heading{
+    width: 200px;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+.single-img{
+   color: aliceblue;
+   padding: 20px;
+   text-align: center;
+   text-decoration:salmon;
+}
+
+.single-paragraph{
+    text-align: center;
+    padding: 45px;
+}
+
+.image-size{
+    background-size: 20px;
+    width: 1000px;
+    padding: 20px;
+    border-radius: 50px;
+}
